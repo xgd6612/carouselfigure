@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Carouse">
+        <attr name="Duration" format="float"/>
+        <attr name="auto_circle" format="boolean"/>
+    </declare-styleable>
+    
+</resources>
